@@ -1,5 +1,5 @@
 # ARES-Node: Advanced Real-time Electronic Symbology
-**Project Lead:** Andrew (OFFCDT Panther)
+**Project Lead:** GamingPanthers
 **Ecosystem:** Arma-Link Integration Suite
 **Version:** 1.0.0
 **Dependencies:** CBA_A3, DUI Squad Radar (Optional for color sync), ACE3
