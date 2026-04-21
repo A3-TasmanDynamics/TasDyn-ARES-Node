@@ -20,10 +20,6 @@ Ready to get ARES-Node running? Here's what you need:
 
 **Steam Workshop:** Coming soon.
 
-## Contributing
-
-This is a community-driven project! We welcome contributions, bug reports, and feature requests. [Join our Discord](https://discord.gg/RmCkSuSHRa) to discuss development and collaborate with the team.
-
 ---
 
 ## About ARES-Node
