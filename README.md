@@ -1,10 +1,18 @@
 # ARES-Node: Advanced Real-time Electronic Symbology
 
-![Arma 3](https://img.shields.io/badge/Arma%203-C2%20System-green)
-![Build System](https://img.shields.io/badge/Built%20With-SQF-blue)
-![License](https://img.shields.io/badge/License-APL--SA-orange)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/A3-TasmanDynamics/TasDyn-ARES-Node?style=for-the-badge&logo=refinedgithub&label=ACTIVE%20ISSUES&color=%23676252)](https://github.com/A3-TasmanDynamics/TasDyn-ARES-Node) [![Discord](https://img.shields.io/discord/1099486374303903827?style=for-the-badge&logo=discord&label=JOIN%20THE%20DISCORD&color=%23676252)](https://discord.gg/RmCkSuSHRa) ![Arma 3](https://img.shields.io/badge/Arma%203-C2%20System-green?style=for-the-badge) ![License](https://img.shields.io/badge/License-APL--SA-orange?style=for-the-badge)
 
 *A high-fidelity Command and Control (C2) and Blue Force Tracking (BFT) system for Arma 3. Bridges individual situational awareness and high-level maneuver coordination with NATO standard symbology and intelligent de-cluttering.*
+
+![GitHub last commit](https://img.shields.io/github/last-commit/A3-TasmanDynamics/TasDyn-ARES-Node?display_timestamp=author&style=for-the-badge&color=%23676252) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/A3-TasmanDynamics/TasDyn-ARES-Node?style=for-the-badge&label=ALL%20TIME%20COMMITS&color=%23676252)
+
+## Contributing
+
+This is a community-driven project! Contributions are welcome. Please join our [Discord](https://discord.gg/RmCkSuSHRa) to discuss development priorities and collaborate with the team.
+
+**Note:** Steam Workshop release coming soon.
+
+## About
 
 ARES-Node provides a "PhD-level" tactical interface that prioritizes data based on operational necessity, enabling squad leaders and command elements to maintain situational awareness across dynamic battlefields.
 
