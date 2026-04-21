@@ -1,6 +1,6 @@
 # ARES-Node: Advanced Real-time Electronic Symbology
 
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/A3-TasmanDynamics/TasDyn-ARES-Node?style=for-the-badge&logo=refinedgithub&label=ACTIVE%20ISSUES&color=%23676252)](https://github.com/A3-TasmanDynamics/TasDyn-ARES-Node) [![Discord](https://img.shields.io/discord/1099486374303903827?style=for-the-badge&logo=discord&label=JOIN%20THE%20DISCORD&color=%23676252)](https://discord.gg/RmCkSuSHRa) ![Arma 3](https://img.shields.io/badge/Arma%203-C2%20System-green?style=for-the-badge) ![License](https://img.shields.io/badge/License-APL--SA-orange?style=for-the-badge)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/A3-TasmanDynamics/TasDyn-ARES-Node?style=for-the-badge&logo=refinedgithub&label=ACTIVE%20ISSUES&color=%23676252)](https://github.com/A3-TasmanDynamics/TasDyn-ARES-Node) [![Discord](https://img.shields.io/discord/1099486374303903827?style=for-the-badge&logo=discord&label=JOIN%20THE%20DISCORD&color=%23676252)](https://discord.gg/RmCkSuSHRa) ![Arma 3](https://img.shields.io/badge/Arma%203-TasDyn%20System-green?style=for-the-badge) ![License](https://img.shields.io/badge/License-APL--SA-orange?style=for-the-badge)
 
 *A high-fidelity Command and Control (C2) and Blue Force Tracking (BFT) system for Arma 3. Bridges individual situational awareness and high-level maneuver coordination with NATO standard symbology and intelligent de-cluttering.*
 
